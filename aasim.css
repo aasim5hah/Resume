@@ -1,0 +1,10 @@
+p{color:blue;font-family:verdana;font-size:20;font-style:italic;font-weight:border;font-variant:small-caps} 
+
+h1{color:blue;background-color:white;word-spacing:10px;
+    letter-spacing:3px}
+h2{color:black;background-color:white;word-spacing:10px;
+    letter-spacing:3px}
+
+body{margin-top:10px;margin-right:50px;margin-left:50px;margin-bottom:30px;
+background-color:skyblue;border-style:double;border-width:12px}
+ table{margin-left:80px}
